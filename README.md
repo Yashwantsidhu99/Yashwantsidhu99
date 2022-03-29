@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yashwantsidhu99
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Analysis/Data Visualization/Machine Learning
 - 📫 How to reach me yashwantsidhu666@gmail.com
 
